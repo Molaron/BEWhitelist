@@ -13,12 +13,12 @@ Whitelist for serverside BattlEye Restrictions.
 * [x] RemoteControl Restriction
 * [x] TeamSwitch Restriction
 * [x] PublicVariable Restriction
-* [ ] RemoteExec Restriction
-* [ ] MPEventHandler Restriction
-* [ ] Waypoint Condition Restriction
-* [ ] SetVariable Restriction
-* [ ] AddWeaponCargo Restriction
-* [ ] AddBackpackCargo Restriction
+* [x] RemoteExec Restriction
+* [x] MPEventHandler Restriction
+* [x] Waypoint Condition Restriction
+* [x] SetVariable Restriction
+* [x] AddWeaponCargo Restriction
+* [x] AddBackpackCargo Restriction
 
 ### Issues
 * [ ] "BattlEye: Query Timeout" - Kick after ~15 minutes
