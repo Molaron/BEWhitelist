@@ -12,10 +12,10 @@ Whitelist for serverside BattlEye Restrictions.
 * [x] SelectPlayer Restriction
 * [x] RemoteControl Restriction
 * [x] TeamSwitch Restriction
+* [x] PublicVariable Restriction
 * [ ] RemoteExec Restriction
 * [ ] MPEventHandler Restriction
 * [ ] Waypoint Condition Restriction
-* [ ] PublicVariable Restriction
 * [ ] SetVariable Restriction
 * [ ] AddWeaponCargo Restriction
 * [ ] AddBackpackCargo Restriction
