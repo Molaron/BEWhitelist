@@ -1,6 +1,9 @@
 # BEWhitelist
 Whitelist for serverside BattlEye Restrictions.
 
+#### Current Version:
+###### A3: `Arma 3 1.70.141838`<br/>BE: `1.217`
+
 ### Progress
 * [x] Global Ban
 * [x] Script Restriction
